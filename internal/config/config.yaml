@@ -1,0 +1,10 @@
+---
+
+  Port : 8080
+
+  Database :
+  - DBName : 
+  - DBLogin : "Thats login"
+  - DBPassword :  "Password to login"
+
+...
